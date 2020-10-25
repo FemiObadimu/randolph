@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
-    /* font-family: PT Sans; */
+    font-family: PT Sans;
 }
 
 .nav-link{
@@ -39,7 +39,7 @@ nav{
     background-repeat: no-repeat;
     background-position: left;
     filter: contrast();
-    background-image: url(randolph-images/img1.jpg);
+    background-image: url(img1.jpg);
 }
 
 .text{
